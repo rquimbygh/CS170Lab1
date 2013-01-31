@@ -1,3 +1,5 @@
+Rachel Quimby, 1-31, Lab1
+
 # 1. Print the numbers from 1 to 10 to the console without writing a for loop or a while loop. Put each number on its own line.
 # I'll get  you started! 
 
